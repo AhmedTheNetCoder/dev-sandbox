@@ -489,3 +489,7 @@ note on rebase vs merge
 ## Entry 123
 
 record pandas groupby idiom
+
+## Entry 124
+
+add powershell path snippet
