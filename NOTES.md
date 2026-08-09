@@ -65,3 +65,7 @@ add sqlite pragma settings
 ## Entry 16
 
 record cron expression syntax
+
+## Entry 17
+
+note on tar extraction flags
