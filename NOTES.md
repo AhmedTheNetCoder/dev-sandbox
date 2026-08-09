@@ -265,3 +265,7 @@ add jq filter example
 ## Entry 67
 
 record duckdb csv import
+
+## Entry 68
+
+note on git bisect
