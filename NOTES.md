@@ -225,3 +225,7 @@ record cron expression syntax
 ## Entry 57
 
 note on tar extraction flags
+
+## Entry 58
+
+add python datetime parsing
