@@ -30,3 +30,7 @@ Reviewed together.
 ## Pair note 9
 
 Reviewed together.
+
+## Pair note 10
+
+Reviewed together.
