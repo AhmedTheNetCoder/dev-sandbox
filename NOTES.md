@@ -321,3 +321,7 @@ note on docker prune commands
 ## Entry 81
 
 add git stash cheatsheet
+
+## Entry 82
+
+note on rebase vs merge
