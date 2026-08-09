@@ -21,3 +21,7 @@ add powershell path snippet
 ## Entry 5
 
 note sql window function syntax
+
+## Entry 6
+
+add jq filter example
