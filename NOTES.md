@@ -413,3 +413,7 @@ record pandas groupby idiom
 ## Entry 104
 
 add powershell path snippet
+
+## Entry 105
+
+note sql window function syntax
