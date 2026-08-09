@@ -89,3 +89,7 @@ add git stash cheatsheet
 ## Entry 22
 
 note on rebase vs merge
+
+## Entry 23
+
+record pandas groupby idiom
