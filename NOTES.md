@@ -53,3 +53,7 @@ add curl retry flags
 ## Entry 13
 
 record ssh config alias
+
+## Entry 14
+
+note on git worktree
