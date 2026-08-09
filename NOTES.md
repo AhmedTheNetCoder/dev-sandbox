@@ -353,3 +353,7 @@ note on git bisect
 ## Entry 89
 
 add regex for date parsing
+
+## Entry 90
+
+record excel power query tip
