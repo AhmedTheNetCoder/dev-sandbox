@@ -213,3 +213,7 @@ record ssh config alias
 ## Entry 54
 
 note on git worktree
+
+## Entry 55
+
+add sqlite pragma settings
