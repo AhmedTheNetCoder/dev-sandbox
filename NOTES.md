@@ -437,3 +437,7 @@ add regex for date parsing
 ## Entry 110
 
 record excel power query tip
+
+## Entry 111
+
+note on virtualenv activation
