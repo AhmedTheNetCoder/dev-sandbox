@@ -249,3 +249,7 @@ note on rebase vs merge
 ## Entry 63
 
 record pandas groupby idiom
+
+## Entry 64
+
+add powershell path snippet
