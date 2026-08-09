@@ -81,3 +81,7 @@ record grep context flags
 ## Entry 20
 
 note on docker prune commands
+
+## Entry 21
+
+add git stash cheatsheet
