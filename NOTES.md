@@ -169,3 +169,7 @@ add git stash cheatsheet
 ## Entry 43
 
 record pandas groupby idiom
+
+## Entry 44
+
+add powershell path snippet
