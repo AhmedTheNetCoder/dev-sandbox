@@ -369,3 +369,7 @@ add curl retry flags
 ## Entry 93
 
 record ssh config alias
+
+## Entry 94
+
+note on git worktree
