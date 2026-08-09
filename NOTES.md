@@ -485,3 +485,7 @@ add git stash cheatsheet
 ## Entry 122
 
 note on rebase vs merge
+
+## Entry 123
+
+record pandas groupby idiom
