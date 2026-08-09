@@ -217,3 +217,7 @@ note on git worktree
 ## Entry 55
 
 add sqlite pragma settings
+
+## Entry 56
+
+record cron expression syntax
