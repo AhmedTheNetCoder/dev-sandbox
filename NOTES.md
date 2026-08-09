@@ -33,3 +33,7 @@ record duckdb csv import
 ## Entry 8
 
 note on git bisect
+
+## Entry 9
+
+add regex for date parsing
