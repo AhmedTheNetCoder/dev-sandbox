@@ -473,3 +473,7 @@ add python datetime parsing
 ## Entry 119
 
 record grep context flags
+
+## Entry 120
+
+note on docker prune commands
