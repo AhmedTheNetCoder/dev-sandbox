@@ -93,3 +93,7 @@ note on rebase vs merge
 ## Entry 23
 
 record pandas groupby idiom
+
+## Entry 24
+
+add powershell path snippet
