@@ -17,3 +17,7 @@ record pandas groupby idiom
 ## Entry 4
 
 add powershell path snippet
+
+## Entry 5
+
+note sql window function syntax
