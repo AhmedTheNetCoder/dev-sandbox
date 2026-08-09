@@ -337,3 +337,7 @@ add powershell path snippet
 ## Entry 85
 
 note sql window function syntax
+
+## Entry 86
+
+add jq filter example
