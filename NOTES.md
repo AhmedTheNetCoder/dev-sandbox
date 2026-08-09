@@ -181,3 +181,7 @@ note sql window function syntax
 ## Entry 46
 
 add jq filter example
+
+## Entry 47
+
+record duckdb csv import
