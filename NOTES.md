@@ -201,3 +201,7 @@ record excel power query tip
 ## Entry 51
 
 note on virtualenv activation
+
+## Entry 52
+
+add curl retry flags
