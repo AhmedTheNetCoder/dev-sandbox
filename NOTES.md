@@ -365,3 +365,7 @@ note on virtualenv activation
 ## Entry 92
 
 add curl retry flags
+
+## Entry 93
+
+record ssh config alias
