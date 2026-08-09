@@ -153,3 +153,7 @@ note on tar extraction flags
 ## Entry 38
 
 add python datetime parsing
+
+## Entry 39
+
+record grep context flags
