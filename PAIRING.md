@@ -18,3 +18,7 @@ Reviewed together.
 ## Pair note 5
 
 Reviewed together.
+
+## Pair note 6
+
+Reviewed together.
